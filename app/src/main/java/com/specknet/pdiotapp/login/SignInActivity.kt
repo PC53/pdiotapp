@@ -1,4 +1,6 @@
 package com.specknet.pdiotapp.login
 
-class SignInActivity {
+import androidx.appcompat.app.AppCompatActivity
+
+class SignInActivity : AppCompatActivity(){
 }
